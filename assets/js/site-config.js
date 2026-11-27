@@ -5,19 +5,19 @@
  * and every page across sparshbeauty.com updates automatically.
  */
 window.SPARSH_CONFIG = {
-  brandName: "Sparsh Beauty",
+  brandName: "The Sparsh Beauty",
   brandFullName: "Sparsh Beauty Studio & Academy",
   artistName: "Shikha Jain",
-  domain: "sparshbeauty.com",
+  domain: "thesparshbeauty.com",
   tagline: "Bridal Artistry, Permanent Hair Studio & Beauty Academy",
 
   // Replace with Shikha Jain's real 10-digit mobile number prefixed with 91 (e.g. "919826012345")
-  whatsappDigits: "91XXXXXXXXXX",
+  whatsappDigits: "919993304998",
   displayPhone: "+91 XXXXX XXXXX",
   email: "hello@sparshbeauty.com",
 
-  instagramHandle: "@shikhajain0308",
-  instagramUrl: "https://www.instagram.com/shikhajain0308/",
+  instagramHandle: "@shikhajain411",
+  instagramUrl: "https://www.instagram.com/shikhajain411/",
   secondaryInstagramHandle: "@shikhajain411",
 
   locationShort: "Boliya, District Mandsaur (M.P.)",
@@ -44,5 +44,5 @@ window.SPARSH_CONFIG = {
   },
 
   defaultWhatsAppMessage:
-    "Hello Shikha Ma'am! I visited sparshbeauty.com and would like to enquire about Bridal Makeover / Permanent Hair Straightening / Academy Courses."
+    "Hello Shikha Ma'am! I visited thesparshbeauty.com and would like to enquire about Bridal Makeover / Permanent Hair Straightening / Academy Courses."
 };
