@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 960" role="img" aria-label="Beauty Seminars and Award Recognition">
+  <defs>
+    <linearGradient id="bgAward" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#35101E"/>
+      <stop offset="100%" stop-color="#1A080F"/>
+    </linearGradient>
+    <linearGradient id="trophyGold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFF0CA"/>
+      <stop offset="50%" stop-color="#D1A14E"/>
+      <stop offset="100%" stop-color="#8A6121"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="960" fill="url(#bgAward)"/>
+  <circle cx="400" cy="390" r="240" fill="none" stroke="url(#trophyGold)" stroke-width="1.2" opacity="0.35"/>
+  <circle cx="400" cy="390" r="275" fill="none" stroke="url(#trophyGold)" stroke-width="1" stroke-dasharray="4 8" opacity="0.3"/>
+  <!-- Crystal & Gold Award Crest -->
+  <path d="M315 245 L485 245 L455 430 Q400 475 345 430 Z" fill="url(#trophyGold)" opacity="0.92"/>
+  <path d="M315 270 C260 270 250 355 322 372" fill="none" stroke="url(#trophyGold)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M485 270 C540 270 550 355 478 372" fill="none" stroke="url(#trophyGold)" stroke-width="10" stroke-linecap="round"/>
+  <rect x="382" y="458" width="36" height="95" fill="url(#trophyGold)"/>
+  <path d="M315 553 L485 553 L505 595 L295 595 Z" fill="url(#trophyGold)"/>
+  <!-- Star Emblem -->
+  <path d="M400 302 L412 332 L444 334 L419 354 L428 386 L400 368 L372 386 L381 354 L356 334 L388 332 Z" fill="#35101E"/>
+  <text x="400" y="745" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="4" fill="#FCEAC6">SEMINARS &amp; AWARD EVENTS</text>
+  <text x="400" y="780" text-anchor="middle" font-family="sans-serif" font-size="13" letter-spacing="3.5" fill="#DEC497" opacity="0.85">STAGE DEMOS • COLLABORATIONS • MENTORSHIP</text>
+</svg>
