@@ -1,26 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 960" role="img" aria-label="Shikha Jain Founder Monogram Portrait">
   <defs>
     <linearGradient id="bgSJ" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#FAF6F0"/>
-      <stop offset="100%" stop-color="#EFE4D5"/>
+      <stop offset="0%" stop-color="#FCF9F5"/>
+      <stop offset="100%" stop-color="#F1E6DA"/>
     </linearGradient>
     <linearGradient id="plumSJ" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#4B172A"/>
-      <stop offset="100%" stop-color="#2D0C18"/>
+      <stop offset="0%" stop-color="#764B59"/>
+      <stop offset="100%" stop-color="#583641"/>
     </linearGradient>
     <linearGradient id="goldSJ" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#E7C98A"/>
-      <stop offset="100%" stop-color="#9F702C"/>
+      <stop offset="0%" stop-color="#EADBC5"/>
+      <stop offset="100%" stop-color="#C6A16F"/>
     </linearGradient>
   </defs>
   <rect width="800" height="960" fill="url(#bgSJ)"/>
   <rect x="65" y="65" width="670" height="830" rx="335" fill="url(#plumSJ)"/>
-  <rect x="88" y="88" width="624" height="784" rx="312" fill="none" stroke="url(#goldSJ)" stroke-width="1.8" opacity="0.72"/>
+  <rect x="88" y="88" width="624" height="784" rx="312" fill="none" stroke="url(#goldSJ)" stroke-width="1.6" opacity="0.78"/>
   <circle cx="400" cy="390" r="158" fill="none" stroke="url(#goldSJ)" stroke-width="1.4" opacity="0.65"/>
   <circle cx="400" cy="390" r="174" fill="none" stroke="url(#goldSJ)" stroke-width="0.9" stroke-dasharray="4 7" opacity="0.5"/>
   <!-- Editorial Monogram -->
   <text x="400" y="428" text-anchor="middle" font-family="Georgia, serif" font-size="136" font-style="italic" fill="url(#goldSJ)">SJ</text>
-  <text x="400" y="640" text-anchor="middle" font-family="Georgia, serif" font-size="30" letter-spacing="5" fill="#F7E4BD">SHIKHA JAIN</text>
-  <text x="400" y="680" text-anchor="middle" font-family="sans-serif" font-size="13" letter-spacing="4" fill="#E3CCA0">MAKEUP ARTIST • HAIRSTYLIST • EDUCATOR</text>
-  <text x="400" y="715" text-anchor="middle" font-family="sans-serif" font-size="12" letter-spacing="3.5" fill="#C9AD79" opacity="0.88">BOLIYA, MANDSAUR • @SHIKHAJAIN0308</text>
+  <text x="400" y="640" text-anchor="middle" font-family="Georgia, serif" font-size="30" letter-spacing="5" fill="#FBF6F0">SHIKHA JAIN</text>
+  <text x="400" y="680" text-anchor="middle" font-family="sans-serif" font-size="13" letter-spacing="4" fill="#EADBC5">MAKEUP ARTIST • HAIRSTYLIST • EDUCATOR</text>
+  <text x="400" y="715" text-anchor="middle" font-family="sans-serif" font-size="12" letter-spacing="3.5" fill="#D5BC96" opacity="0.9">BOLIYA, MANDSAUR • @SHIKHAJAIN0308</text>
 </svg>

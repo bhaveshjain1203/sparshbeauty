@@ -1,32 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="Sparsh Beauty Studio Boliya">
   <defs>
     <linearGradient id="wallSt" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#FAF6F0"/>
-      <stop offset="100%" stop-color="#EAE0D3"/>
+      <stop offset="0%" stop-color="#FCF9F4"/>
+      <stop offset="100%" stop-color="#EFE4D8"/>
     </linearGradient>
     <linearGradient id="brass" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#E7C88B"/>
-      <stop offset="100%" stop-color="#A67936"/>
+      <stop offset="0%" stop-color="#DFC49A"/>
+      <stop offset="100%" stop-color="#AE8853"/>
     </linearGradient>
   </defs>
   <rect width="900" height="700" fill="url(#wallSt)"/>
   <!-- Marble Floor -->
-  <rect x="0" y="520" width="900" height="180" fill="#DFD3C3"/>
-  <line x1="0" y1="520" x2="900" y2="520" stroke="#C49A52" stroke-width="2"/>
+  <rect x="0" y="520" width="900" height="180" fill="#E6D9CA"/>
+  <line x1="0" y1="520" x2="900" y2="520" stroke="#C8A777" stroke-width="2"/>
   <!-- Twin Illuminated Vanity Arches -->
   <g>
-    <path d="M130 470 L130 220 C130 135 198 85 270 85 C342 85 410 135 410 220 L410 470 Z" fill="#FFFDF9" stroke="url(#brass)" stroke-width="6"/>
-    <path d="M490 470 L490 220 C490 135 558 85 630 85 C702 85 770 135 770 220 L770 470 Z" fill="#FFFDF9" stroke="url(#brass)" stroke-width="6"/>
+    <path d="M130 470 L130 220 C130 135 198 85 270 85 C342 85 410 135 410 220 L410 470 Z" fill="#FFFDF9" stroke="url(#brass)" stroke-width="5"/>
+    <path d="M490 470 L490 220 C490 135 558 85 630 85 C702 85 770 135 770 220 L770 470 Z" fill="#FFFDF9" stroke="url(#brass)" stroke-width="5"/>
   </g>
   <!-- Console Counter -->
-  <rect x="95" y="455" width="710" height="24" rx="4" fill="#F8F4EE" stroke="#D5C4AC" stroke-width="1.5"/>
+  <rect x="95" y="455" width="710" height="24" rx="4" fill="#FAF6F0" stroke="#DFCDBA" stroke-width="1.5"/>
   <!-- Velvet Styling Chairs -->
-  <rect x="215" y="425" width="110" height="80" rx="26" fill="#4A1829"/>
+  <rect x="215" y="425" width="110" height="80" rx="26" fill="#7D4F5E"/>
   <rect x="264" y="505" width="12" height="55" fill="url(#brass)"/>
   <ellipse cx="270" cy="562" rx="46" ry="9" fill="url(#brass)"/>
-  <rect x="575" y="425" width="110" height="80" rx="26" fill="#4A1829"/>
+  <rect x="575" y="425" width="110" height="80" rx="26" fill="#7D4F5E"/>
   <rect x="624" y="505" width="12" height="55" fill="url(#brass)"/>
   <ellipse cx="630" cy="562" rx="46" ry="9" fill="url(#brass)"/>
-  <text x="450" y="625" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="4" fill="#3A1221">SPARSH BEAUTY STUDIO — BOLIYA</text>
-  <text x="450" y="655" text-anchor="middle" font-family="sans-serif" font-size="13" letter-spacing="3.5" fill="#615456">HYGIENIC BRIDAL SUITE • HAIR LAB • ACADEMY FLOOR</text>
+  <text x="450" y="625" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="4" fill="#462A34">SPARSH BEAUTY STUDIO — BOLIYA</text>
+  <text x="450" y="655" text-anchor="middle" font-family="sans-serif" font-size="13" letter-spacing="3.5" fill="#7D646B">HYGIENIC BRIDAL SUITE • HAIR LAB • ACADEMY FLOOR</text>
 </svg>

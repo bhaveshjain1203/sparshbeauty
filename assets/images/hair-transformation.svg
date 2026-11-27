@@ -1,35 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 960" role="img" aria-label="Permanent Hair Straightening Transformation">
   <defs>
     <linearGradient id="bgHair" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#1E1719"/>
-      <stop offset="60%" stop-color="#332227"/>
-      <stop offset="100%" stop-color="#140F11"/>
+      <stop offset="0%" stop-color="#F6F0EA"/>
+      <stop offset="60%" stop-color="#EDE3DA"/>
+      <stop offset="100%" stop-color="#E3D5C9"/>
     </linearGradient>
     <linearGradient id="silkHair" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#1C1416"/>
-      <stop offset="32%" stop-color="#4A3237"/>
-      <stop offset="50%" stop-color="#D7B27C"/>
-      <stop offset="68%" stop-color="#3E282D"/>
-      <stop offset="100%" stop-color="#181113"/>
+      <stop offset="0%" stop-color="#4A3439"/>
+      <stop offset="32%" stop-color="#6E4E55"/>
+      <stop offset="50%" stop-color="#DFC4A2"/>
+      <stop offset="68%" stop-color="#5B3F46"/>
+      <stop offset="100%" stop-color="#422E33"/>
     </linearGradient>
     <linearGradient id="goldLine" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#F6E2B8"/>
-      <stop offset="100%" stop-color="#B98B41"/>
+      <stop offset="0%" stop-color="#D7BA90"/>
+      <stop offset="100%" stop-color="#9A7648"/>
     </linearGradient>
   </defs>
   <rect width="800" height="960" fill="url(#bgHair)"/>
-  <rect x="64" y="64" width="672" height="832" rx="336" fill="none" stroke="url(#goldLine)" stroke-width="1.6" opacity="0.45"/>
+  <rect x="64" y="64" width="672" height="832" rx="336" fill="#FCF9F5" fill-opacity="0.45" stroke="url(#goldLine)" stroke-width="1.6"/>
   <!-- Flowing Mirror-Gloss Hair Waves -->
-  <path d="M290 150 C250 320 260 520 225 760 L575 760 C540 520 550 320 510 150 Z" fill="url(#silkHair)"/>
-  <path d="M335 160 C315 340 315 540 295 755" fill="none" stroke="#F6E2B8" stroke-width="2" opacity="0.45"/>
-  <path d="M400 155 C395 340 405 540 400 760" fill="none" stroke="#F6E2B8" stroke-width="2.5" opacity="0.58"/>
-  <path d="M465 160 C485 340 485 540 505 755" fill="none" stroke="#F6E2B8" stroke-width="2" opacity="0.45"/>
+  <path d="M295 160 C255 320 265 510 235 725 L565 725 C535 510 545 320 505 160 Z" fill="url(#silkHair)"/>
+  <path d="M338 170 C318 340 318 530 298 720" fill="none" stroke="#F8EBD9" stroke-width="2" opacity="0.55"/>
+  <path d="M400 165 C395 340 405 530 400 725" fill="none" stroke="#F8EBD9" stroke-width="2.5" opacity="0.65"/>
+  <path d="M462 170 C482 340 482 530 502 720" fill="none" stroke="#F8EBD9" stroke-width="2" opacity="0.55"/>
   <!-- Mirror Shine Band -->
-  <ellipse cx="400" cy="435" rx="145" ry="26" fill="#FCEAC6" opacity="0.16"/>
-  <ellipse cx="400" cy="435" rx="95" ry="11" fill="#FFF3D9" opacity="0.28"/>
+  <ellipse cx="400" cy="435" rx="145" ry="26" fill="#FFF7EB" opacity="0.22"/>
+  <ellipse cx="400" cy="435" rx="95" ry="11" fill="#FFFFFF" opacity="0.34"/>
   <!-- Sparkle Highlights -->
-  <path d="M565 250 L572 272 L594 279 L572 286 L565 308 L558 286 L536 279 L558 272 Z" fill="url(#goldLine)" opacity="0.85"/>
-  <path d="M235 375 L239 390 L254 394 L239 398 L235 413 L231 398 L216 394 L231 390 Z" fill="url(#goldLine)" opacity="0.75"/>
-  <text x="400" y="815" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="4" fill="#F6E2B8">PERMANENT HAIR STRAIGHTENING</text>
-  <text x="400" y="848" text-anchor="middle" font-family="sans-serif" font-size="13" letter-spacing="3.5" fill="#D8C299" opacity="0.85">SILK SMOOTHING • KERATIN • MIRROR GLOSS</text>
+  <path d="M565 250 L572 272 L594 279 L572 286 L565 308 L558 286 L536 279 L558 272 Z" fill="url(#goldLine)" opacity="0.9"/>
+  <path d="M235 375 L239 390 L254 394 L239 398 L235 413 L231 398 L216 394 L231 390 Z" fill="url(#goldLine)" opacity="0.8"/>
+  <text x="400" y="795" text-anchor="middle" font-family="Georgia, serif" font-size="23" letter-spacing="3.5" fill="#462A34">PERMANENT HAIR STRAIGHTENING</text>
+  <text x="400" y="830" text-anchor="middle" font-family="sans-serif" font-size="13" letter-spacing="3.5" fill="#7D646B">SILK SMOOTHING • KERATIN • MIRROR GLOSS</text>
 </svg>

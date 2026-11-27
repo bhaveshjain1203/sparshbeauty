@@ -1,68 +1,68 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Rajwadi Bridal Artistry Illustration">
   <defs>
     <linearGradient id="bgHero" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#3A1221"/>
-      <stop offset="55%" stop-color="#5B1D33"/>
-      <stop offset="100%" stop-color="#280B16"/>
+      <stop offset="0%" stop-color="#F7EFE7"/>
+      <stop offset="55%" stop-color="#EFE1D6"/>
+      <stop offset="100%" stop-color="#E7D4C7"/>
     </linearGradient>
     <radialGradient id="halo" cx="50%" cy="38%" r="46%">
-      <stop offset="0%" stop-color="#F6DFB2" stop-opacity="0.45"/>
-      <stop offset="55%" stop-color="#C49A52" stop-opacity="0.16"/>
-      <stop offset="100%" stop-color="#3A1221" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.72"/>
+      <stop offset="65%" stop-color="#DFC4A2" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#EFE1D6" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="goldFoil" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#F5E1B8"/>
-      <stop offset="45%" stop-color="#C99B4B"/>
-      <stop offset="100%" stop-color="#8C6426"/>
+      <stop offset="0%" stop-color="#D8BC91"/>
+      <stop offset="50%" stop-color="#B68F5C"/>
+      <stop offset="100%" stop-color="#8A693D"/>
     </linearGradient>
     <linearGradient id="skinWarm" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#E7B997"/>
-      <stop offset="100%" stop-color="#C98F6C"/>
+      <stop offset="0%" stop-color="#ECC3A4"/>
+      <stop offset="100%" stop-color="#D7A17E"/>
     </linearGradient>
     <linearGradient id="odhani" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#9A1F38" stop-opacity="0.92"/>
-      <stop offset="100%" stop-color="#580E1F" stop-opacity="0.96"/>
+      <stop offset="0%" stop-color="#8A4B5B" stop-opacity="0.92"/>
+      <stop offset="100%" stop-color="#613340" stop-opacity="0.96"/>
     </linearGradient>
   </defs>
   <rect width="800" height="1000" fill="url(#bgHero)"/>
   <circle cx="400" cy="390" r="340" fill="url(#halo)"/>
   <!-- Royal Mughal Arch -->
-  <path d="M120 940 L120 360 C120 200 260 110 400 72 C540 110 680 200 680 360 L680 940 Z" fill="none" stroke="url(#goldFoil)" stroke-width="2.2" opacity="0.72"/>
-  <path d="M142 940 L142 368 C142 222 270 135 400 98 C530 135 658 222 658 368 L658 940 Z" fill="none" stroke="url(#goldFoil)" stroke-width="1" stroke-dasharray="6 6" opacity="0.5"/>
+  <path d="M120 940 L120 360 C120 200 260 110 400 72 C540 110 680 200 680 360 L680 940 Z" fill="none" stroke="url(#goldFoil)" stroke-width="2" opacity="0.8"/>
+  <path d="M142 940 L142 368 C142 222 270 135 400 98 C530 135 658 222 658 368 L658 940 Z" fill="none" stroke="url(#goldFoil)" stroke-width="1" stroke-dasharray="6 6" opacity="0.55"/>
   <!-- Decorative Mandala Halo -->
   <circle cx="400" cy="350" r="176" fill="none" stroke="url(#goldFoil)" stroke-width="1.2" opacity="0.45"/>
   <circle cx="400" cy="350" r="196" fill="none" stroke="url(#goldFoil)" stroke-width="0.9" stroke-dasharray="3 8" opacity="0.4"/>
   <!-- Bridal Silhouette & Odhani Drape -->
   <path d="M205 940 C215 745 250 560 288 430 C320 325 360 265 400 250 C440 265 480 325 512 430 C550 560 585 745 595 940 Z" fill="url(#odhani)"/>
-  <path d="M205 940 C215 745 250 560 288 430 C320 325 360 265 400 250 C440 265 480 325 512 430 C550 560 585 745 595 940" fill="none" stroke="url(#goldFoil)" stroke-width="3.5"/>
+  <path d="M205 940 C215 745 250 560 288 430 C320 325 360 265 400 250 C440 265 480 325 512 430 C550 560 585 745 595 940" fill="none" stroke="url(#goldFoil)" stroke-width="3"/>
   <!-- Face & Neck -->
   <path d="M366 490 L366 600 Q400 622 434 600 L434 490 Z" fill="url(#skinWarm)"/>
   <ellipse cx="400" cy="390" rx="82" ry="108" fill="url(#skinWarm)"/>
   <!-- Hair Parting -->
-  <path d="M318 375 C320 295 365 268 400 268 C435 268 480 295 482 375 C460 325 426 306 400 306 C374 306 340 325 318 375 Z" fill="#1A1114"/>
+  <path d="M318 375 C320 295 365 268 400 268 C435 268 480 295 482 375 C460 325 426 306 400 306 C374 306 340 325 318 375 Z" fill="#342328"/>
   <!-- Eyes & Brows -->
-  <path d="M348 368 Q367 355 385 366" fill="none" stroke="#1E1215" stroke-width="3" stroke-linecap="round"/>
-  <path d="M415 366 Q433 355 452 368" fill="none" stroke="#1E1215" stroke-width="3" stroke-linecap="round"/>
-  <path d="M350 384 Q368 375 384 385 Q368 391 350 384 Z" fill="#2A151B"/>
-  <path d="M416 385 Q432 375 450 384 Q432 391 416 385 Z" fill="#2A151B"/>
+  <path d="M348 368 Q367 355 385 366" fill="none" stroke="#342328" stroke-width="2.8" stroke-linecap="round"/>
+  <path d="M415 366 Q433 355 452 368" fill="none" stroke="#342328" stroke-width="2.8" stroke-linecap="round"/>
+  <path d="M350 384 Q368 375 384 385 Q368 391 350 384 Z" fill="#412830"/>
+  <path d="M416 385 Q432 375 450 384 Q432 391 416 385 Z" fill="#412830"/>
   <!-- Bindi & Lips -->
-  <circle cx="400" cy="356" r="4.5" fill="#9A1F38"/>
-  <path d="M376 446 Q390 439 400 444 Q410 439 424 446 Q400 462 376 446 Z" fill="#8C1830"/>
+  <circle cx="400" cy="356" r="4.5" fill="#9E3C4F"/>
+  <path d="M376 446 Q390 439 400 444 Q410 439 424 446 Q400 462 376 446 Z" fill="#A24758"/>
   <!-- Maang Tikka & Borla -->
   <line x1="400" y1="268" x2="400" y2="332" stroke="url(#goldFoil)" stroke-width="2.5"/>
   <circle cx="400" cy="336" r="11" fill="url(#goldFoil)"/>
-  <circle cx="400" cy="336" r="5" fill="#9A1F38"/>
-  <!-- Bridal Nath (Nose Ring) -->
-  <circle cx="426" cy="432" r="24" fill="none" stroke="url(#goldFoil)" stroke-width="2.4"/>
-  <circle cx="448" cy="422" r="3.5" fill="#F6E5C4"/>
-  <path d="M446 420 Q475 398 486 368" fill="none" stroke="url(#goldFoil)" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <circle cx="400" cy="336" r="5" fill="#9E3C4F"/>
+  <!-- Bridal Nath -->
+  <circle cx="426" cy="432" r="24" fill="none" stroke="url(#goldFoil)" stroke-width="2.2"/>
+  <circle cx="448" cy="422" r="3.5" fill="#FCF9F5"/>
+  <path d="M446 420 Q475 398 486 368" fill="none" stroke="url(#goldFoil)" stroke-width="1.4" stroke-dasharray="3 3"/>
   <!-- Kundan Choker & Rani Haar -->
-  <path d="M346 544 Q400 578 454 544" fill="none" stroke="url(#goldFoil)" stroke-width="12" stroke-linecap="round"/>
-  <path d="M332 586 Q400 668 468 586" fill="none" stroke="url(#goldFoil)" stroke-width="5"/>
-  <path d="M312 612 Q400 742 488 612" fill="none" stroke="url(#goldFoil)" stroke-width="3.5" opacity="0.85"/>
-  <circle cx="400" cy="634" r="10" fill="url(#goldFoil)"/>
-  <circle cx="400" cy="680" r="12" fill="url(#goldFoil)"/>
+  <path d="M346 544 Q400 578 454 544" fill="none" stroke="url(#goldFoil)" stroke-width="11" stroke-linecap="round"/>
+  <path d="M332 586 Q400 668 468 586" fill="none" stroke="url(#goldFoil)" stroke-width="4.5"/>
+  <path d="M312 612 Q400 742 488 612" fill="none" stroke="url(#goldFoil)" stroke-width="3" opacity="0.85"/>
+  <circle cx="400" cy="634" r="9" fill="url(#goldFoil)"/>
+  <circle cx="400" cy="680" r="11" fill="url(#goldFoil)"/>
   <!-- Editorial Caption -->
-  <text x="400" y="852" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="6" fill="#F5E1B8">RAJWADI &amp; RAJPUTI BRIDAL</text>
-  <text x="400" y="886" text-anchor="middle" font-family="sans-serif" font-size="13" letter-spacing="4" fill="#E5D1A8" opacity="0.8">SIGNATURE ARTISTRY BY SHIKHA JAIN</text>
+  <text x="400" y="852" text-anchor="middle" font-family="Georgia, serif" font-size="22" letter-spacing="6" fill="#F8EFE4">RAJWADI &amp; RAJPUTI BRIDAL</text>
+  <text x="400" y="886" text-anchor="middle" font-family="sans-serif" font-size="13" letter-spacing="4" fill="#EADBC5" opacity="0.9">SIGNATURE ARTISTRY BY SHIKHA JAIN</text>
 </svg>

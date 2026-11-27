@@ -1,41 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 960" role="img" aria-label="Rajputi Poshak Bridal Artistry">
   <defs>
     <linearGradient id="bgRajputi" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#561423"/>
-      <stop offset="50%" stop-color="#8A2232"/>
-      <stop offset="100%" stop-color="#350D18"/>
+      <stop offset="0%" stop-color="#F6ECE5"/>
+      <stop offset="55%" stop-color="#EBD9CE"/>
+      <stop offset="100%" stop-color="#DFC7BA"/>
     </linearGradient>
     <linearGradient id="goldR" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#FCEBC7"/>
-      <stop offset="50%" stop-color="#D4A44D"/>
-      <stop offset="100%" stop-color="#8B5E1A"/>
+      <stop offset="0%" stop-color="#DFC49A"/>
+      <stop offset="50%" stop-color="#B9925D"/>
+      <stop offset="100%" stop-color="#8A693D"/>
     </linearGradient>
     <radialGradient id="glowR" cx="50%" cy="42%" r="45%">
-      <stop offset="0%" stop-color="#FFDF9E" stop-opacity="0.38"/>
-      <stop offset="100%" stop-color="#561423" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.72"/>
+      <stop offset="100%" stop-color="#EBD9CE" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect width="800" height="960" fill="url(#bgRajputi)"/>
   <circle cx="400" cy="400" r="320" fill="url(#glowR)"/>
   <!-- Jharokha Frame -->
-  <path d="M110 880 L110 320 C110 210 210 175 265 130 C320 90 365 66 400 58 C435 66 480 90 535 130 C590 175 690 210 690 320 L690 880 Z" fill="none" stroke="url(#goldR)" stroke-width="2.2" opacity="0.8"/>
+  <path d="M110 880 L110 320 C110 210 210 175 265 130 C320 90 365 66 400 58 C435 66 480 90 535 130 C590 175 690 210 690 320 L690 880 Z" fill="#FCF8F3" fill-opacity="0.45" stroke="url(#goldR)" stroke-width="2" opacity="0.85"/>
   <!-- Borla & Rakhdi Crown Motif -->
   <circle cx="400" cy="275" r="24" fill="url(#goldR)"/>
-  <circle cx="400" cy="275" r="11" fill="#8A2232"/>
-  <path d="M275 305 Q400 220 525 305" fill="none" stroke="url(#goldR)" stroke-width="4.5"/>
+  <circle cx="400" cy="275" r="11" fill="#8D4958"/>
+  <path d="M275 305 Q400 220 525 305" fill="none" stroke="url(#goldR)" stroke-width="4"/>
   <!-- Rajputi Aadh Choker Ornament -->
   <path d="M260 515 Q400 570 540 515 L520 575 Q400 628 280 575 Z" fill="url(#goldR)" opacity="0.92"/>
-  <circle cx="400" cy="560" r="16" fill="#561423" stroke="#FCEBC7" stroke-width="2"/>
-  <circle cx="342" cy="548" r="10" fill="#561423" stroke="#FCEBC7" stroke-width="1.5"/>
-  <circle cx="458" cy="548" r="10" fill="#561423" stroke="#FCEBC7" stroke-width="1.5"/>
+  <circle cx="400" cy="560" r="16" fill="#7C3F4E" stroke="#FCF8F3" stroke-width="2"/>
+  <circle cx="342" cy="548" r="10" fill="#7C3F4E" stroke="#FCF8F3" stroke-width="1.5"/>
+  <circle cx="458" cy="548" r="10" fill="#7C3F4E" stroke="#FCF8F3" stroke-width="1.5"/>
   <!-- Poshak Odhani Sheer Curves -->
-  <path d="M190 880 C215 620 270 360 400 250 C530 360 585 620 610 880" fill="none" stroke="url(#goldR)" stroke-width="3" opacity="0.85"/>
-  <path d="M235 880 C260 660 305 420 400 315 C495 420 540 660 565 880" fill="none" stroke="#FCEBC7" stroke-width="1.2" stroke-dasharray="5 7" opacity="0.55"/>
+  <path d="M190 880 C215 620 270 360 400 250 C530 360 585 620 610 880" fill="none" stroke="#8D4958" stroke-width="2.5" opacity="0.5"/>
+  <path d="M235 880 C260 660 305 420 400 315 C495 420 540 660 565 880" fill="none" stroke="url(#goldR)" stroke-width="1.4" stroke-dasharray="5 7" opacity="0.75"/>
   <!-- Decorative Pearls -->
-  <g fill="#FCEBC7" opacity="0.85">
-    <circle cx="315" cy="596" r="4"/><circle cx="340" cy="605" r="4"/><circle cx="368" cy="611" r="4"/>
-    <circle cx="400" cy="614" r="5"/><circle cx="432" cy="611" r="4"/><circle cx="460" cy="605" r="4"/><circle cx="485" cy="596" r="4"/>
+  <g fill="#FCF8F3" stroke="#B9925D" stroke-width="1">
+    <circle cx="315" cy="596" r="4.5"/><circle cx="340" cy="605" r="4.5"/><circle cx="368" cy="611" r="4.5"/>
+    <circle cx="400" cy="614" r="5.5"/><circle cx="432" cy="611" r="4.5"/><circle cx="460" cy="605" r="4.5"/><circle cx="485" cy="596" r="4.5"/>
   </g>
-  <text x="400" y="795" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#FCEBC7">ROYAL RAJPUTI POSHAK</text>
-  <text x="400" y="832" text-anchor="middle" font-family="sans-serif" font-size="13" letter-spacing="4" fill="#F3D9A4" opacity="0.85">BORLA • AADH • ODHANI DRAPING</text>
+  <text x="400" y="795" text-anchor="middle" font-family="Georgia, serif" font-size="24" letter-spacing="5" fill="#4E2D37">ROYAL RAJPUTI POSHAK</text>
+  <text x="400" y="832" text-anchor="middle" font-family="sans-serif" font-size="13" letter-spacing="4" fill="#7E6169">BORLA • AADH • ODHANI DRAPING</text>
 </svg>

@@ -1,38 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 960" role="img" aria-label="Sparsh Beauty Academy Masterclass">
   <defs>
     <linearGradient id="bgAc" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#F6EFE5"/>
-      <stop offset="100%" stop-color="#E7D8C5"/>
+      <stop offset="0%" stop-color="#F9F4EE"/>
+      <stop offset="100%" stop-color="#EFE3D6"/>
     </linearGradient>
     <linearGradient id="plumAc" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#4A172A"/>
-      <stop offset="100%" stop-color="#2D0C18"/>
+      <stop offset="0%" stop-color="#744655"/>
+      <stop offset="100%" stop-color="#54313C"/>
     </linearGradient>
     <linearGradient id="goldAc" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#E9CB8E"/>
-      <stop offset="100%" stop-color="#A87932"/>
+      <stop offset="0%" stop-color="#DFC49A"/>
+      <stop offset="100%" stop-color="#A6804D"/>
     </linearGradient>
   </defs>
   <rect width="800" height="960" fill="url(#bgAc)"/>
   <!-- Arched Vanity Mirror -->
-  <path d="M180 650 L180 310 C180 185 278 100 400 100 C522 100 620 185 620 310 L620 650 Z" fill="#FFFDF9" stroke="url(#goldAc)" stroke-width="8"/>
+  <path d="M180 650 L180 310 C180 185 278 100 400 100 C522 100 620 185 620 310 L620 650 Z" fill="#FFFDF9" stroke="url(#goldAc)" stroke-width="6"/>
   <path d="M204 630 L204 316 C204 205 292 124 400 124 C508 124 596 205 596 316 L596 630 Z" fill="none" stroke="#E8D8BE" stroke-width="2"/>
   <!-- Vanity Bulb Glows -->
-  <g fill="#FFF5DF" stroke="#D5B274" stroke-width="1.5">
+  <g fill="#FFF9EE" stroke="#CFAF7E" stroke-width="1.5">
     <circle cx="245" cy="215" r="11"/><circle cx="315" cy="150" r="11"/><circle cx="400" cy="128" r="11"/>
     <circle cx="485" cy="150" r="11"/><circle cx="555" cy="215" r="11"/>
   </g>
   <!-- Artistry Brushes & Palette -->
   <rect x="245" y="340" width="310" height="175" rx="14" fill="url(#plumAc)"/>
-  <circle cx="305" cy="400" r="24" fill="#D89A7C"/><circle cx="368" cy="400" r="24" fill="#C49A52"/>
-  <circle cx="432" cy="400" r="24" fill="#8D3B4C"/><circle cx="495" cy="400" r="24" fill="#E6C2A8"/>
-  <circle cx="305" cy="462" r="24" fill="#6B2435"/><circle cx="368" cy="462" r="24" fill="#B27456"/>
-  <circle cx="432" cy="462" r="24" fill="#E9D1A5"/><circle cx="495" cy="462" r="24" fill="#462228"/>
+  <circle cx="305" cy="400" r="24" fill="#DFAA91"/><circle cx="368" cy="400" r="24" fill="#CBA36C"/>
+  <circle cx="432" cy="400" r="24" fill="#A65E6E"/><circle cx="495" cy="400" r="24" fill="#EBD0BC"/>
+  <circle cx="305" cy="462" r="24" fill="#8B4A59"/><circle cx="368" cy="462" r="24" fill="#C4896E"/>
+  <circle cx="432" cy="462" r="24" fill="#EAD6B4"/><circle cx="495" cy="462" r="24" fill="#6F4751"/>
   <!-- Angled Signature Brush -->
   <g transform="rotate(-24 410 560)">
     <rect x="394" y="290" width="16" height="240" rx="6" fill="url(#goldAc)"/>
-    <path d="M392 290 L412 290 L408 242 C404 232 400 232 396 242 Z" fill="#2A1C1F"/>
+    <path d="M392 290 L412 290 L408 242 C404 232 400 232 396 242 Z" fill="#432C33"/>
   </g>
-  <text x="400" y="750" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="4" fill="#3A1221">SPARSH BEAUTY ACADEMY</text>
-  <text x="400" y="786" text-anchor="middle" font-family="sans-serif" font-size="13" letter-spacing="3.5" fill="#6B5A5E">PRO MAKEUP • HAIR • DRAPING CERTIFICATION</text>
+  <text x="400" y="750" text-anchor="middle" font-family="Georgia, serif" font-size="25" letter-spacing="4" fill="#462A34">SPARSH BEAUTY ACADEMY</text>
+  <text x="400" y="786" text-anchor="middle" font-family="sans-serif" font-size="13" letter-spacing="3.5" fill="#7D646B">PRO MAKEUP • HAIR • DRAPING CERTIFICATION</text>
 </svg>
